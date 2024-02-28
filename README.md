@@ -21,6 +21,8 @@ Open the project in your Java IDE.
 
 Run the MazeSolver class.
 
+https://github.com/dlakshman645/MazeSolver/assets/127575762/2685e00e-534d-4178-a96f-e2f24c08a2ed
+
 Follow the on-screen instructions to generate and solve mazes.
 
 How to Use
